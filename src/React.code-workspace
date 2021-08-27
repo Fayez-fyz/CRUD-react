@@ -1,0 +1,26 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\firstproject"
+		},
+		{
+			"path": "..\\..\\secondproject"
+		},
+		{
+			"path": "..\\..\\ecommerce"
+		},
+		{
+			"path": "..\\..\\cart-project"
+		},
+		{
+			"path": ".."
+		},
+		{
+			"path": "..\\..\\project-formik"
+		},
+		{
+			"path": "..\\..\\project-axios"
+		}
+	],
+	"settings": {}
+}
